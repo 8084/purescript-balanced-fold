@@ -1,0 +1,6 @@
+.psc-package
+bower_components
+node_modules
+.purs-repl
+output
+.psc*
