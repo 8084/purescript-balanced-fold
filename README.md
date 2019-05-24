@@ -1,4 +1,4 @@
-# purescript-balanced-fold [![Dependencies](https://img.shields.io/librariesio/github/8084/purescript-balanced-fold.svg)](https://libraries.io/github/8084/purescript-balanced-fold) [![Build status](https://travis-ci.org/8084/purescript-balanced-fold.svg?branch=master)](https://travis-ci.org/8084/purescript-balanced-fold)
+# purescript-balanced-fold [![Dependencies](https://img.shields.io/librariesio/github/klntsky/purescript-balanced-fold.svg)](https://libraries.io/github/klntsky/purescript-balanced-fold) [![Build status](https://travis-ci.org/klntsky/purescript-balanced-fold.svg?branch=master)](https://travis-ci.org/klntsky/purescript-balanced-fold)
 
 
 A balanced fold, also called tree fold, is an operation of folding a list of values using some associative operation, trying as much as possible to balance.
